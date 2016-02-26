@@ -8,6 +8,8 @@ It also benefits from three pacakages:
 * Dingo API - [dingo/api](https://github.com/dingo/api)
 * Laravel-CORS [barryvdh/laravel-cors](http://github.com/barryvdh/laravel-cors)
 
+You can find it [here](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
+
 This little project use Angular for the frontend and it's a simple CRUD with authentication using JWT (Json-Web-Tokens). You can add, modify, delete and show books as a wishlist.
 
 ## Usage:
